@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/D_G_Client/static/css/main.0c784f36.css",
+    "main.js": "/D_G_Client/static/js/main.eede3cab.js",
+    "static/js/787.28cb0dcd.chunk.js": "/D_G_Client/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/D_G_Client/index.html",
+    "main.0c784f36.css.map": "/D_G_Client/static/css/main.0c784f36.css.map",
+    "main.eede3cab.js.map": "/D_G_Client/static/js/main.eede3cab.js.map",
+    "787.28cb0dcd.chunk.js.map": "/D_G_Client/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c784f36.css",
+    "static/js/main.eede3cab.js"
+  ]
+}
